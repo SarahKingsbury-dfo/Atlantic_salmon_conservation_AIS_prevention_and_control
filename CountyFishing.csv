@@ -1,0 +1,37 @@
+County,Resident_NonResident_Angler,Number_Days_Fished,Percentage
+Annapolis ,resident,"52,398",5
+Annapolis ,non resident,115,1
+Antigonish,resident,"17,527",2
+Antigonish,non resident,367,3
+Cape Breton,resident,"112,997",9
+Cape Breton,non resident,"1,179",9
+Colchester,resident,"58,460",6
+Colchester,non resident,729,6
+Cumberland ,resident,"60,702",6
+Cumberland ,non resident,"1,126",9
+Digby,resident,"36,783",4
+Digby,non resident,273,2
+Guysborough,resident,"56,717",6
+Guysborough,non resident,691,5
+Halifax,resident,"258,653",25
+Halifax,non resident,"2,213",17
+Hants,resident,"49,737",5
+Hants,non resident,546,4
+Inverness,resident,"42,406",4
+Inverness,non resident,"3,652",28
+Kings,resident,"41,650",4
+Kings,non resident,258,2
+Lunenburg,resident,"63,511",6
+Lunenburg,non resident,282,2
+Pictou,resident,"31,860",3
+Pictou,non resident,267,2
+Richmond,resident,"22,322",2
+Richmond,non resident,97,1
+Queens,resident,"22,342",2
+Queens,non resident,487,4
+Shelburne,resident,"18,537",2
+Shelburne,non resident,8,0
+Victoria,resident,"35,732",3
+Victoria,non resident,549,4
+Yarmouth,resident,"55,008",5
+Yarmouth,non resident,111,1

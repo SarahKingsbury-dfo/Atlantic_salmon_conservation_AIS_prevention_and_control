@@ -1,0 +1,24 @@
+order_color,order_hierarchy,goal,parent,name,name_flower,weight
+1,1,detections,Pressure,AIS,AIS,1
+2,2,BoatLaunch,Disturbance,Boat Launch,Boat Launch,1
+3,3,SARproportion ,Protection,SAR Hab.,SAR Hab.,1
+3.1,3.1,EBSAproportion,Protection,EBSA,EBSA,1
+3.2,3.2,NSResproportion ,Protection,Indig. Res.,Indig. Res.,1
+4,4,nativeFish,Habitat Suitability,Native Fishes,Native Fishes,1
+3.3,3.3,NSParksproportion,Protection,Parks,Parks,1
+2.1,2.1,RecFishproportion,Disturbance,Rec. Fishing,Rec. Fishing,1
+4.1,4.1,salmon_stat_avg,Habitat Suitability,Salmon Status,Salmon Status,1
+4.2,4.2,habitat_suitability_avg,Habitat Suitability,HSM,HSM,1
+2.2,2.2,road_desnity_avg,Disturbance,Road Density,Road Density,1
+1.1,1.1,Temp_Vel_avg,Pressure,Vel. of Temp.,Vel. of Temp.,1
+2.3,2.3,X_stream_avg,Disturbance,Stream Xing,Stream Xing,1
+1.2,1.2,AqBarrier_avg,Pressure,Aq. Barriers,Aq. Barriers,1
+1.3,1.3,urban_land_avg,Pressure,Urban,Urban,1
+1.4,1.4,clear_cut_avg,Pressure,Clear Cut,Clear Cut,1
+1.5,1.5,agri_avg,Pressure,Agri.,Agri.,1
+1.6,1.6,Impv_avg,Pressure,Imprev.,Imprev.,1
+1.7,1.7,N_Leach_avg,Pressure,N Leeching,N Leeching,1
+1.8,1.8,P_Leach_avg,Pressure,P Leeching,P Leeching,1
+1.9,1.9,pesticide_avg,Pressure,Pesticides,Pesticides,1
+1.11,1.11,pollution_avg,Pressure,Pollution,Pollution,1
+1.12,1.12,sal_stocking,Pressure,Sal. Stocking,Sal. Stocking,1

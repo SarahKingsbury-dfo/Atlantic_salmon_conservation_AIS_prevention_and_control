@@ -1,0 +1,25 @@
+Rank_Species,Resident_Non Resident_Angler,Common_Name,Percent
+1,Resident,Brook trout ,47
+2,Resident,Rainbow trout,15
+4,Resident,Brown trout,7
+5,Resident,Mackerel ,6
+6,Resident,Atlantic salmon,5
+7,Resident,Striped bass,5
+8,Resident,Smelt,2
+10,Resident,White perch,0.9
+11,Resident,Other fish,0.9
+12,Resident,Yellow perch,0.7
+13,Resident,Cod ,0.6
+14,Resident,Landlocked salmon,0.5
+1,Non Resident,Brook trout ,35
+2,Non Resident,Atlantic salmon,23
+3,Non Resident,Rainbow trout,13
+4,Non Resident,Brown trout,10
+6,Non Resident,Striped bass,4
+7,Non Resident,Mackerel,3
+9,Non Resident,Landlocked salmon,1
+10,Non Resident,Yellow perch,0.6
+11,Non Resident,White perch,0.6
+12,Non Resident,Smelt,0.5
+13,Non Resident,Cod,0.5
+14,Non Resident,Other fish,0.4
