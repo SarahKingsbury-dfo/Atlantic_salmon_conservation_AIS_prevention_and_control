@@ -1,0 +1,2 @@
+This repository is for the analyses used in the mnauscript: A new tool for setting biodiversity management priorities adapted from aquatic invasive species management: a pilot using Atlantic salmon (Salmo salar) in NS, Canada. 
+Further information on data layers used in the analyses can be found noted within the code and in the mnauscript's supplementary materials 1-Data Collection, references with links to data are listed in the manuscript's Reference section. 
